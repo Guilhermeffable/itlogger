@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Hard drive fixed on workstation 002",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-04-22T12:35:30.968Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed 012 hard drive",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-04-22T12:35:03.747Z"
+    },
+    {
+      "message": "adsddad",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-05-02T14:36:30.772Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Guilherme",
+      "lastName": "Luís",
+      "id": 3
+    }
+  ]
+}
